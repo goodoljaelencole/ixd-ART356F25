@@ -13,7 +13,7 @@ This is **BOLD TEXT**
 This is *italized text*
 
 ### Journal Entries
-[Journal](Journal/Entry 1_08_26_2025.md)
+hello[Hi](Journal/Entry 1_08_26_2025.md)
 
 
 ### This is an image
