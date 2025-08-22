@@ -14,3 +14,6 @@ This is *italized text*
 
 ### This is an image
 <img width="2550" height="3300" alt="Good ol' Jaelen Cole (C)" src="https://github.com/user-attachments/assets/dfe4391b-bc5c-4028-bb48-1c5d1b3f823c" />
+
+### Journal Entries
+[Jornal](Journal/Entry1_08_26_2025.md)
