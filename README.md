@@ -5,3 +5,9 @@ This repo is going to host all of my readings and projects for the ART 356 cours
 (Add Text)
 
 This is a link -> [GitHub Pages](https://pages.github.com/)
+
+##This is Text Styles
+
+This is **BOLD TEXT**
+
+This is *italized text*
