@@ -13,4 +13,4 @@ This is **BOLD TEXT**
 This is *italized text*
 
 ### This is an image
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg) 
+<img width="2550" height="3300" alt="Good ol' Jaelen Cole (C)" src="https://github.com/user-attachments/assets/dfe4391b-bc5c-4028-bb48-1c5d1b3f823c" />
