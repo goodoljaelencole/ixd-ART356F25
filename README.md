@@ -15,6 +15,9 @@ This is *italized text*
 ### Journal Entries
 [Entry1](Journal/Entry 1_08_26_2025.md)
 
+## In-class Exercises
+
+[Character/Scene Randomizer Ex 1](exercises/characterRandomizer/index.html)
 
 ### This is an image
 <img width="2550" height="3300" alt="Good ol' Jaelen Cole (C)" src="https://github.com/user-attachments/assets/dfe4391b-bc5c-4028-bb48-1c5d1b3f823c" />
