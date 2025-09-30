@@ -17,7 +17,7 @@ This is *italized text*
 
 ## In-class Exercises
 
-[Character/Scene Randomizer Ex 1]()
+[Character/Scene Randomizer Ex 1](Exercises/Namco Flyer Randomizer/index.html)
 
 ## Projects
 
