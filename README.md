@@ -17,7 +17,7 @@ This is *italized text*
 
 ## In-class Exercises
 
-[Character/Scene Randomizer Ex 1](Exercises/Namco Flyer Randomizer/index.html)
+[Character/Scene Randomizer Ex 1](https://goodoljaelencole.github.io/ixd-ART356F25/Exercises/Namco Flyer Randomizer/index.html)
 
 ## Projects
 
