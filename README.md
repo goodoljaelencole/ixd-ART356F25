@@ -17,11 +17,12 @@ This is *italized text*
 
 ## In-class Exercises
 
-[Character/Scene Randomizer Ex 1](https://goodoljaelencole.github.io/ixd-ART356F25/Exercises/Namco Flyer Randomizer/index.html)
+[Character/Scene Randomizer Ex 1](https://goodoljaelencole.github.io/ixd-ART356F25/Exercises/NamcoFlyerRandomizer/index.html)
 
 ## Projects
 
-[Interactive Randomizer]()
+[Interactive Randomizer](https://goodoljaelencole.github.io/ixd-ART356F25/Exercises/InteractiveRandomizer/index.html)
+
 ### This is an image
 <img width="2550" height="3300" alt="Good ol' Jaelen Cole (C)" src="https://github.com/user-attachments/assets/dfe4391b-bc5c-4028-bb48-1c5d1b3f823c" />
 
