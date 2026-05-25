@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'namco';
+  src: url('./fonts/namco__.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'joystix';
+  src: url('./fonts/joystix monospace.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+h1{
+  font: 1em namco;
+  color: red;
+  font-size: 25pt;
+}
+p {
+  font: 1em joystix;
+  font-size: 15pt;
+}
